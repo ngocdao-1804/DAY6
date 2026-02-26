@@ -9,11 +9,11 @@ function introduce(name, age, address){
 }
 introduce(`Đào`, 20, `thành phố Hồ Chí Minh`)
 
-// hàm printName
+// bai 1 hàm printName
 // 1 tham số tên name
 // trong hàm in ra name đó
-// function printName(name){
-//     console.log(`Hello ${name}`);
-// }
-// printName(`Dao92`);
-// printName(`Lucy`);
+function printName(name){
+    console.log(`Hello ${name}`);
+}
+printName(`Dao92`);
+printName(`Lucy`);
