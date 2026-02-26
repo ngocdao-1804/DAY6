@@ -1,5 +1,5 @@
 
-//1 hàm introduce
+//bai 2: 1 hàm introduce
 // Nhận 3 tham số: name, age, address
 // In: Xin chào, tôi tên là ...
 // Năm nay tôi .. tuổi
